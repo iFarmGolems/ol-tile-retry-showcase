@@ -1,6 +1,6 @@
 # How to run
 
-Run the following command in the terminal:
+Run the following commands in the terminal:
 
 ```bash
 npm install
